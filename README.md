@@ -88,8 +88,8 @@ npm run build
 
 ## 🐞Reporting Issues
 
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/northendlab-light-astro/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/northendlab-light-astro/issues).
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/rafay99-epic/northendlab/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/rafay99-epic/northendlab/issues).
 
 <!-- licence -->
 
@@ -97,7 +97,8 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/northendlab-light-astro/blob/main/LICENSE) license.
+Code Moddified by [Abdul Rafay](https://rafay99.com)
+**Code License:** Released under the [GNU V3](/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
@@ -105,4 +106,4 @@ Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://them
 
 Besides developing beautifully designed and blazing-fast themes, we help businesses create fast, performance-focused, scalable & secure websites based on NextJs, Hugo, Astro, etc.
 
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://themefisher.com/contact).
+If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Me](https://rafay99.com/contact-me).
