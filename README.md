@@ -1,7 +1,7 @@
 <h1 align=center>Northendlab Light Astro</h1>
 <p align=center>Northendlab is a beautifully designed & highly customizable Astro theme created specifically for personal blog websites. Users can customize the color scheme, fonts, menu, social links, etc. and update the content easily based on their requirements.  
 </p>
-<h2 align="center"> <a target="_blank" href="https://northendlab-light-astro.vercel.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fnorthendlab-light-astro.vercel.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
+<h2 align="center"> <a target="_blank" href="https://northenlab.netlify.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-northenlab-netlify-app/yl4kusc879?form_factor=mobile">Page Speed (100%)🚀</a>
 </h2>
 
 <p align=center>
@@ -9,13 +9,11 @@
     <img src="https://img.shields.io/static/v1?label=ASTRO&message=4.3&color=000&logo=astro" />
   </a>
 
-  <a href="https://github.com/themefisher/northendlab-light-astro/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/themefisher/northendlab-light-astro" alt="license"></a>
+  <a href="/LICENSE">
+   <img src="https://img.shields.io/badge/license-GPL%20v3-blue.svg" alt="license"></a>
 
   <img src="https://img.shields.io/github/languages/code-size/themefisher/northendlab-light-astro" alt="code size">
 
-  <a href="https://github.com/themefisher/northendlab-light-astro/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/northendlab-light-astro" alt="contributors"></a>
 </p>
 
 ![northendlab-light](https://demo.gethugothemes.com/thumbnails/northendlab-light.png)
